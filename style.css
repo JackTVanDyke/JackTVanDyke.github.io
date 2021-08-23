@@ -153,6 +153,7 @@ ul {
 
 header {
   margin: 0 0 3em 0;
+  line-height: 1.2;
 }
 
 header > p {
@@ -411,6 +412,23 @@ article:last-child {
   margin: 0 0 2em 0;
 }
 
+#me {
+  width: 80%;
+  height: auto;
+  border: 3px solid black;
+}
+
+@media screen and (max-width: 1280px) {
+  #me {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 841px) {
+  #me {
+    width: 80%;
+  }
+}
 /* Button */
 
 .button {
