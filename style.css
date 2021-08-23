@@ -728,19 +728,19 @@ body > article {
     clear: both;
   }
 
-  @media screen and (max-width: 605px) {
+  @media screen and (max-width: 608px) {
     #linkedin {
       visibility: hidden;
     }
   }
 
-  @media screen and (max-width: 513px) {
+  @media screen and (max-width: 515px) {
     #github {
       visibility: hidden;
     }
   }
 
-  @media screen and (max-width: 437px) {
+  @media screen and (max-width: 440px) {
     #email {
       visibility: hidden;
     }
