@@ -567,18 +567,16 @@ ul li {
 /* Wrappers */
 
 .wrapper {
-  box-shadow: inset 0px 1px 0px 0px black, inset 0px 2px 3px 0px black;
   padding: 8em 0 8em 0;
   text-align: center;
 }
 
 .wrapper.style1 {
-  background-image: none;
   background-color: white;
 }
 
 .wrapper.style2 {
-  background-color: #e7e7e7;
+  background-color: white;
 }
 
 .wrapper.style3 {
@@ -586,13 +584,13 @@ ul li {
 }
 
 .wrapper.style4 {
-  background-color: #e7e7e7;
+  background-color: white;
 }
 
 /* Nav */
 
 #nav {
-  background-color: #e7e7e7;
+  background-color: white;
   text-align: center;
   position: fixed;
   left: 0;
