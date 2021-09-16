@@ -632,8 +632,7 @@ ul li {
 }
 
 #nav a:hover {
-  color: #fff !important;
-  background: #c5cbe3;
+  transform: scale(120%);
 }
 
 /* Articles */
