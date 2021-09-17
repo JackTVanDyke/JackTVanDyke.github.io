@@ -755,11 +755,11 @@ body > article {
     }
   }
 
-  @media screen and (max-width: 440px) {
+  /* @media screen and (max-width: 440px) {
     #email {
       visibility: hidden;
     }
-  }
+  } */
   /* Button */
 
   .button {
@@ -869,4 +869,11 @@ body > article {
   #copyright li:first-child {
     margin-top: 0;
   }
+}
+
+/* custom css */
+.subtitle {
+  font-style: italic;
+  font-size: 12px;
+  margin-top: 10px;
 }
