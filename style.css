@@ -564,6 +564,25 @@ ul li {
   font-size: 6em;
 }
 
+.fas {
+  display: none;
+}
+
+.fas {
+  color: #c5cbe3;
+  display: block;
+  margin: 0 0 1.5em 0;
+  cursor: default;
+}
+
+.fas:hover {
+  color: black;
+}
+
+.fas:before {
+  font-size: 6em;
+}
+
 /* Wrappers */
 
 .wrapper {
